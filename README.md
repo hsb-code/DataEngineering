@@ -6,3 +6,6 @@ Features
 - Feature Engineering: Creating new features from existing data to improve analysis.
 - Exploratory Data Analysis (EDA): Provides insights into the dataset through visualizations and summary statistics.
 - Real-world Application: Uses an Uber trip dataset, making the project relevant and practical.
+
+CAB Rides CSV File (Could not be uploaded on repository due to large size):
+https://drive.google.com/file/d/1RxzmLRTmqani58vPn3yMGgCWxPHdQO2H/view?usp=drive_link
